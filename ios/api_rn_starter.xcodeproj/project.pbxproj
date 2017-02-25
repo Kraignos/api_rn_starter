@@ -40,6 +40,7 @@
 		567DDDD1C4104E46813CAD56 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7EC40D520D0A4865AD305CED /* Entypo.ttf */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		6768C4CAD12E42898380A572 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 09A201B91E5645A09164BDD3 /* FontAwesome.ttf */; };
+		710BE5091E61CACE00C6DAC1 /* libRNI18n.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 710BE4F51E61C29F00C6DAC1 /* libRNI18n.a */; };
 		7680C209467B4F6898631E97 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 190929B9A0C042A897267911 /* EvilIcons.ttf */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		8A6E5E9756164840AD532B2A /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E21854051C8348C8BC2E05FF /* SimpleLineIcons.ttf */; };
@@ -343,6 +344,7 @@
 				139105C61AF99C1200B5F7CC /* libRCTSettings.a in Frameworks */,
 				832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */,
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
+				710BE5091E61CACE00C6DAC1 /* libRNI18n.a in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
 				19F2F390A9524D6794FB17F8 /* libReactNativeNavigation.a in Frameworks */,
 				3243ECDC600449DE919BE341 /* libRNVectorIcons.a in Frameworks */,
