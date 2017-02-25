@@ -1,0 +1,45 @@
+{
+  "name": "api_rn_starter",
+  "version": "0.0.1",
+  "description": "React Native Starter Kit including mobx, navigation, i18n and icons",
+  "license": "MIT",
+  "author": "Antoine Picone",
+  "private": false,
+  "homepage": "https://github.com/kraignos/api_rn_starter",
+  "readme": "https://github.com/kraignos/api_rn_starter#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kraignos/api_rn_starter.git"
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "mobx": "^3.1.0",
+    "mobx-react": "^4.1.0",
+    "react": "15.4.2",
+    "react-native": "0.41.2",
+    "react-native-i18n": "^1.0.0",
+    "react-native-navigation": "^2.0.0-experimental.229",
+    "react-native-vector-icons": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "eslint": "^3.16.1",
+    "eslint-config-fbjs": "^1.1.1",
+    "eslint-plugin-babel": "^4.0.1",
+    "eslint-plugin-flowtype": "^2.30.0",
+    "eslint-plugin-jasmine": "^2.2.0",
+    "eslint-plugin-prefer-object-spread": "^1.1.0",
+    "eslint-plugin-react": "^6.10.0",
+    "jest": "19.0.2",
+    "react-test-renderer": "15.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
